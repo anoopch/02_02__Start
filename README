@@ -1,2 +1,27 @@
-We are using Twitter's great emoji: https://github.com/twitter/twemoji
-We are using a picture of a portrait of Adam Smith from Wikipedia: https://en.wikipedia.org/wiki/Adam_Smith#/media/File:Adam_Smith_The_Muir_portrait.jpg
+This is a sample project from the LinkedIn course.
+
+I have updated the following
+  1. Gradle Plugin
+  2. Compile and Target SDK to 29
+  3. migrated to androidx
+  4. Added a fix for http traffic from the local host
+  5. Added a fix for RetroLambda not compiling the project
+  
+  
+  TODO: Migrate to Kotlin
+
+
+From The course Page:
+Android App Development: Design Patterns for Mobile Architecture
+Developers need to know how to manage an app's complexity. In this course, learn how to simplify your apps by applying simple architectural design patterns to your mobile code base. Discover how these design patterns can help you reduce bugs and maximize your development time by making your code easier to read and test. Jon Bott covers different architectural models such as MVC, MVP, and VIPER. In addition, he walks through the conversion process from MVC to a layered architecture, covering dependency injection, the coordinator pattern, and data binding.
+Learning Objectives:
+
+    Common architectures
+    Minimum viable architecture (MVA)
+    Converting to MVP
+    Expanding layers
+    Working with entities
+    Dependency and interface injection
+    Implementing the coordination pattern
+    Adding binding with RxJava
+
